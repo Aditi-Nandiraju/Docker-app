@@ -1,4 +1,4 @@
-# 🐳 Dockerized Todo App
+# Dockerized Todo App
 
 A simple fullstack Todo application (Node.js/Express API + MongoDB + vanilla JS frontend), fully containerized with Docker so it can be built and run on any machine with minimal setup.
 
